@@ -1,10 +1,10 @@
-# Queen_Jennifer_MD
+# MUSTAFIZUR
 
 ### Isn't working
 - because [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys) was removed
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/AiDarkEzio/Whats-Bot/master/GojoMedia/D_E-DPC.jpg" alt="ADE" width="350" high="350"/>
+<img src="https://raw.githubusercontent.com/AiDarkEzio/Whats-Bot/master/GSIJ9R4ZikbImkEqfrtv75.jpg" alt="ADE" width="350" high="350"/>
 </p>
 
 ## If You Want Deploy This Bot or See Other Details
